@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <?easyxml sysecho "LOG1"; ?>
+    <test></test>
+    <?easyxml sysecho "LOG2"; ?>
+</root>

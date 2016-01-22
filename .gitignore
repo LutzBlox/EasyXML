@@ -8,6 +8,22 @@ target/
 .project
 
 # =========================
+# IDEA/Gradle Files
+# =========================
+
+.gradle/
+.idea/
+build/
+out/
+*.iml
+
+# =========================
+# Old Maven Files (Unused)
+# =========================
+
+pom.xml
+
+# =========================
 # Java Files
 # =========================
 
@@ -17,7 +33,6 @@ target/
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 

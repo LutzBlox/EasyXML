@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<test>
-	<test2 testAttr="testValue">
-		<testValue>Test String</testValue>
-	</test2>
-	<test3>
-		<test4 testAttr2="testValue2" testAttr3="testValue3">Test String2</test4>
-	</test3>
-</test>
